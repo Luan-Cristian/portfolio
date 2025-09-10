@@ -17,7 +17,7 @@ Estudante de Ciência da Computação | Entusiasta de Jogos, Fórmula 1 e Progra
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/0vYQ2n8p5bW8jSdP6z/giphy.gif" alt="Mewtwo Pixel Art" width="330" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms5c2VnbjBheHpiMW5ieTF1dHI5bTMwOHRpajIwdWV2Nzl6bzBrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y151GB9PFnvQa93qSg/giphy.gif" alt="Mewtwo Pixel Art" width="330" />
 
 </div>
 
