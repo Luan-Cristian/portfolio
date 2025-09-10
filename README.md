@@ -10,14 +10,14 @@ Estudante de Ciência da Computação | Entusiasta de Jogos, Fórmula 1 e Progra
 🎓 Estudante de Ciência da Computação  
 💻 Python • C++ • JavaScript  
 🎮 Apaixonado por jogos e tecnologia  
-🏎️ Fã de Fórmula 1  
+🏎️ Fã de Fórmula 1 (Forza Ferrari!)  
 ⚽ Curto futebol e desafios de lógica
 
 </div>
 
 <div align="center">
 
-![Formula 1 Car Gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Ferrari F1 GIF](https://media.giphy.com/media/JpGgH5b5AFA6i/giphy.gif)
 
 </div>
 
