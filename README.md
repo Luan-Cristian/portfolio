@@ -24,7 +24,7 @@ Estudante de Ciência da Computação | Entusiasta de Jogos, Fórmula 1 e Progra
 ---
 
 ✨ **Projetos em destaque**  
-- [Portfólio Pessoal](h[ttps://github.com/Luan-Cristian/portfolio](https://luan-cristian.github.io/portfolio/#projetos))  
+- [Portfólio Pessoal](https://github.com/Luan-Cristian/portfolio](https://luan-cristian.github.io/portfolio/#projetos))  
 - [Jogo](https://github.com/antoniilucas/jogo)  
 - [Banco de Dados](https://github.com/paulopaes216/BD)
 
