@@ -11,7 +11,7 @@ Estudante de Ciência da Computação | Entusiasta de Jogos, Fórmula 1 e Progra
 💻 Python • C++ • JavaScript  
 🎮 Apaixonado por jogos e tecnologia  
 🏎️ Fã de Fórmula 1  
-⚽ Curto futebol
+⚽ Gosto de futebol
 
 </div>
 
